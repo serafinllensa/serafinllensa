@@ -17,7 +17,7 @@ Trabajo con un flujo de desarrollo asistido por IA: coordino agentes de IA para 
 
 ### 🛠️ Con qué trabajo
 
-`HTML` · `CSS` · `JavaScript` · `React` · `Tailwind CSS` · `PWA`
+`HTML` · `CSS` · `JavaScript` · `PWA` · `localStorage`
 `Vercel` · `GitHub Pages` · `Git`
 Desarrollo asistido por IA: `Grok` · `Claude` · `Google AI Studio`
 

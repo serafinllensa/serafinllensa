@@ -1,40 +1,34 @@
-# Hey there, I'm Serafin 🛠️
+# Hola, soy Serafin 👋
 
-Information Systems Student & Frontend Web Builder. Passionate about leveraging modern AI-driven workflows to craft fast, clean, and responsive landing pages.
+Estudiante de Licenciatura en Sistemas en Paraná, Entre Ríos. **Hago sitios y apps web para negocios y proyectos**: rápidos, prolijos, pensados para el celular y publicados listos para usar.
 
----
-
-### 💻 Tech Stack & Tooling
-
-**Web Development:**
-`React` · `Tailwind CSS` · `JavaScript` · `HTML5 & CSS3`
-
-**AI-Assisted Workflow (Vibe Coding):**
-`Google Antigravity 2.0` · `Claude` · `Google AI Studio`
-
-**Deployment & Infrastructure:**
-`Vercel` · `GitHub`
+Trabajo con un flujo de desarrollo asistido por IA: coordino agentes de IA para diseñar, programar y probar, y me encargo de que el resultado funcione de verdad.
 
 ---
 
-### 🚀 What I'm Up To Right Now
-- 🏗️ Developing optimized landing pages for local businesses and independent projects.
-- 🎓 Advancing my academic path in Information Systems to master software architecture.
-- 🤖 Exploring autonomous coding agents to maximize build efficiency and speed.
+### 🚀 Proyectos
+
+| Proyecto | Qué es | Demo |
+|---|---|---|
+| [**Gastos del viaje**](https://github.com/serafinllensa/gastos-viaje) | App para dividir gastos en grupo: quién le debe a quién, pagos y modo sin internet. Instalable en el celular. | [Probar](https://serafinllensa.github.io/gastos-viaje/) |
+| [**Soleil**](https://github.com/serafinllensa/Soleil_Restaurant) | Sitio conceptual para un restaurante de alta cocina, con carta interactiva y reservas. | [Ver](https://soleil-restaurant.vercel.app) |
 
 ---
 
-<!--
-**serafinllensa/serafinllensa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Con qué trabajo
 
-Here are some ideas to get you started:
+`HTML` · `CSS` · `JavaScript` · `React` · `Tailwind CSS` · `PWA`
+`Vercel` · `GitHub Pages` · `Git`
+Desarrollo asistido por IA: `Grok` · `Claude` · `Google AI Studio`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💼 Qué ofrezco
+
+- Sitios para negocios locales: carta o servicios, pedidos y turnos por WhatsApp, ubicación y horarios.
+- Landing pages para emprendimientos y proyectos.
+- Apps web a medida, simples y sin vueltas.
+
+### 📫 Contacto
+
+✉️ [serafinllensa@gmail.com](mailto:serafinllensa@gmail.com)

@@ -11,7 +11,7 @@ Trabajo con un flujo de desarrollo asistido por IA: coordino agentes de IA para 
 | Proyecto | Qué es | Demo |
 |---|---|---|
 | [**Gastos del viaje**](https://github.com/serafinllensa/gastos-viaje) | App para dividir gastos en grupo: quién le debe a quién, pagos y modo sin internet. Instalable en el celular. | [Probar](https://serafinllensa.github.io/gastos-viaje/) |
-| [**Soleil**](https://github.com/serafinllensa/Soleil_Restaurant) | Sitio conceptual para un restaurante de alta cocina, con carta interactiva y reservas. | [Ver](https://soleil-restaurant.vercel.app) |
+| [**Ribera**](https://github.com/serafinllensa/ribera-demo) | Demo de sitio para gastronomía: carta online, pedidos por WhatsApp y "abierto ahora". Cada local se arma con un solo archivo de configuración. | [Ver](https://serafinllensa.github.io/ribera-demo/) |
 
 ---
 
